@@ -2,3 +2,18 @@
     background-color: rgb(215, 136, 136);
     font-family: Verdana, DejaVu Sans, sans-serif;
   }
+
+#number2 {
+    color: hsl(247, 100%, 50%);
+    font-size: 36px;
+  }
+
+#number3 {
+    font-size: 24px;
+  }
+
+#number4 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #85d285;
+  }
